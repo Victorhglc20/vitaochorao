@@ -3,7 +3,9 @@
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-lopes-carlos-4b9175352/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorhugolc.2611@gmail.com)
-[![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/victorhugolc_2611)
+[![DIO](https://img.shields.io/badge/DIO-000080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/victorhugolc_2611)
+
+
 
 ### Linguagens de Programação
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
